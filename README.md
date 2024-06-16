@@ -21,15 +21,15 @@ Le projet se compose de plusieurs types de fichiers :
 
 Pour intégrer une fonction dans votre projet, incluez simplement le fichier `.h` correspondant dans `main.ino`.
 
-**Arborescence des fichiers :**
-main/
-&ensp;├── main.ino // Fichier principal\
-&ensp;├── moteur.h/cpp // Gestion des moteurs\
-&ensp;├── ultrason.h/cpp // Capteurs ultrasons\
-&ensp;├── bras_robot.h/cpp // Bras robotique à servomoteur 180°\
-&ensp;├── driven.h/cpp // Charnière à servomoteur 360°\
-&ensp;├── elevator.h/cpp // Monte-charge à servomoteur 360°\
-&ensp;└── IMU.h/cpp // Capteur IMU\
+**Arborescence des fichiers :**\
+main/\
+&ensp;&ensp;&ensp;├── main.ino // Fichier principal\
+&ensp;&ensp;&ensp;├── moteur.h/cpp // Gestion des moteurs\
+&ensp;&ensp;&ensp;├── ultrason.h/cpp // Capteurs ultrasons\
+&ensp;&ensp;&ensp;├── bras_robot.h/cpp // Bras robotique à servomoteur 180°\
+&ensp;&ensp;&ensp;├── driven.h/cpp // Charnière à servomoteur 360°\
+&ensp;&ensp;&ensp;├── elevator.h/cpp // Monte-charge à servomoteur 360°\
+&ensp;&ensp;&ensp;└── IMU.h/cpp // Capteur IMU\
 
 ## Contribuer au Projet
 Nous invitons la communauté à participer activement au développement du projet. Que ce soit pour proposer des améliorations de code, des designs innovants ou de nouvelles idées d'applications, votre contribution est précieuse et grandement appréciée.
