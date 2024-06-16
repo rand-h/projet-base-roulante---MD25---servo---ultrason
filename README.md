@@ -29,7 +29,7 @@ main/\
 &ensp;&ensp;&ensp;├── bras_robot.h/cpp // Bras robotique à servomoteur 180°\
 &ensp;&ensp;&ensp;├── driven.h/cpp // Charnière à servomoteur 360°\
 &ensp;&ensp;&ensp;├── elevator.h/cpp // Monte-charge à servomoteur 360°\
-&ensp;&ensp;&ensp;└── IMU.h/cpp // Capteur IMU\
+&ensp;&ensp;&ensp;└── IMU.h/cpp // Capteur IMU
 
 ## Contribuer au Projet
 Nous invitons la communauté à participer activement au développement du projet. Que ce soit pour proposer des améliorations de code, des designs innovants ou de nouvelles idées d'applications, votre contribution est précieuse et grandement appréciée.
