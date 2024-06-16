@@ -3,7 +3,7 @@
 ## Introduction
 Ce projet a pour ambition de concevoir un robot autonome piloté par une carte Arduino. Il est conçu pour naviguer de manière autonome dans un environnement complexe en utilisant une gamme de capteurs et d'actionneurs. L'objectif principal est de créer un système robotique flexible et évolutif, capable de s'adapter à diverses applications et missions.
 
-**Logiciel Utilisé :** [Arduino IDE](https://apps.microsoft.com/detail/9NBLGGH4RSD8?launch=true&mode=full&hl=fr-fr&gl=fr&ocid=bingwebsearch)
+**Logiciel Utilisé :** [Arduino IDE](https://www.arduino.cc/en/software)
 ## Composants
 Le robot est composé des éléments suivants :
 - **Arduino** - [Acheter](https://www.gotronic.fr/art-carte-joy-it-2560-r3-25502.htm) | [Documentation](https://docs.arduino.cc/#:~:text=Arduino%20Documentation%201%20Hardware%20The%20vital%20pieces%20of,to%20program%20with%20Arduino%2C%20including%20library%20documentation.%20)
