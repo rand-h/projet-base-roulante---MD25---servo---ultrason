@@ -15,7 +15,7 @@ Le robot est composé des éléments suivants :
 
 Autres :  
 `Modèle 3D à imprimer`
-- **pince robot**\
+- **Pince robot**\
 &ensp;&ensp;&ensp;├── Model 3D/pince.3mf
 - **Elevator** : inspiré de [Linear Servo Actuators](https://www.thingiverse.com/thing:3170748)\
 &ensp;&ensp;&ensp;├── Model 3D/elevator + servo.3mf\
