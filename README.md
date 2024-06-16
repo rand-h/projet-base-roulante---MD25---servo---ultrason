@@ -13,10 +13,13 @@ Le robot est composé des éléments suivants :
 - **Module de propulsion RD02 (MD25 + moteur EMG30)** - [Acheter](https://www.gotronic.fr/art-module-de-propulsion-rd02-11565.htm) | [Documentation](http://www.robot-electronics.co.uk/htm/md25tech.htm)
 - **Capteur IMU (Grove - IMU 10DOF)** - [Acheter](https://wiki.seeedstudio.com/Grove-IMU_10DOF/) | [Documentation](https://wiki.seeedstudio.com/Grove-IMU_10DOF/)
 
-Autres : 
+Autres :  
 `Modèle 3D à imprimer`
-- **pince robot**
-- **Elevateur** : inspiré de [Linear Servo Actuators](https://www.thingiverse.com/thing:3170748)
+- **pince robot**\
+&ensp;&ensp;&ensp;├── /Model 3D/pince.3mf
+- **Elevator** : inspiré de [Linear Servo Actuators](https://www.thingiverse.com/thing:3170748)\
+&ensp;&ensp;&ensp;├── /Model 3D/elevator + servo.3mf
+&ensp;&ensp;&ensp;├── /Model 3D/bouge_panneau.3mf
 
 ## Structure des Fichiers de Code
 Le projet se compose de plusieurs types de fichiers :
