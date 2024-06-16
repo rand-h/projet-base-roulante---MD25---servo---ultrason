@@ -33,3 +33,6 @@ main/\
 
 ## Contribuer au Projet
 Nous invitons la communauté à participer activement au développement du projet. Que ce soit pour proposer des améliorations de code, des designs innovants ou de nouvelles idées d'applications, votre contribution est précieuse et grandement appréciée.
+
+
+Auteur : Hosea Rand.
