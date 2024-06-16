@@ -32,7 +32,8 @@ main/\
 &ensp;&ensp;&ensp;└── IMU.h/cpp &emsp;// Capteur IMU
 
 ## Contribuer au Projet
-Nous invitons la communauté à participer activement au développement du projet. Que ce soit pour proposer des améliorations de code, des designs innovants ou de nouvelles idées d'applications, votre contribution est précieuse et grandement appréciée.
+Nous invitons activement la communauté à participer au projet. Que ce soit pour l'apport d'améliorations au code ou pour des propositions d'idées, **toutes les contributions sont les bienvenues**.
+
 
 ##
 Auteur : Hosea Rand.
