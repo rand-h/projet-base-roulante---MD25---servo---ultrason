@@ -18,7 +18,7 @@ Autres :
 - **pince robot**\
 &ensp;&ensp;&ensp;├── Model 3D/pince.3mf
 - **Elevator** : inspiré de [Linear Servo Actuators](https://www.thingiverse.com/thing:3170748)\
-&ensp;&ensp;&ensp;├── Model 3D/elevator + servo.3mf
+&ensp;&ensp;&ensp;├── Model 3D/elevator + servo.3mf\
 &ensp;&ensp;&ensp;├── Model 3D/bouge_panneau.3mf
 
 ## Structure des Fichiers de Code
